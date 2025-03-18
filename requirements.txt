@@ -1,0 +1,10 @@
+streamlit
+transformers
+tensorflow
+tf-keras
+nltk
+sacremoses
+torch
+spacy
+pyngrok
+accelerate
